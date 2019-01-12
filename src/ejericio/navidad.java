@@ -8,7 +8,7 @@ public class navidad {
 	
 	
 		navidad2 nuevo = new navidad2();
-		nuevo.DibujameLaNavidad(5);
+		nuevo.DibujameLaNavidad(5); //l (cantidad de lineas con *)
 	}
 
 
