@@ -1,7 +1,5 @@
 package ejericio;
 
-import java.util.Scanner;
-
 public class navidad2 {
 	
 	public static void DibujameLaNavidad(int n) {
@@ -9,10 +7,7 @@ public class navidad2 {
 	
 		String c = "*";
 		
-		Scanner sc =new Scanner(System.in);
-		System.out.println("Inserta un numero: ");
-		n= sc.nextInt();
-		
+	
 		for(int i=0; i<n; i++);{
 			System.out.println();
 		}
